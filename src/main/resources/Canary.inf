@@ -1,0 +1,5 @@
+main-class=com.goodformentertainment.canary.bc.BCPlugin
+author=Rusli
+version=1.0.0
+name=BriarcraftCommon
+enable-early=true
